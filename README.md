@@ -18,7 +18,6 @@ Download:
 Future_Engineer_Kit.pdf
 👩‍💻 Created by
 Madalina Berger
-www.madalinaberger.com
 
 👩‍💻 About Me
 Hi, I'm Madalina – working at the intersection of engineering, data and AI.
