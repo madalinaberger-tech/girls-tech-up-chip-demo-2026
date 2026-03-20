@@ -2,6 +2,7 @@
 Interactive chip testing, data and AI demo for Girls TECH UP.
 
 🚀 Girls TECH UP – Chip Testing Demo
+Hi, I'm Madalina - a software and data engineer working on chip testing, data and AI.
 Learn how engineers test computer chips, analyze data and use AI.
 This demo was created for the Girls TECH UP event to inspire girls aged 10–14 to explore engineering, software and data.
 
