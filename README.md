@@ -20,6 +20,7 @@ Future_Engineer_Kit.pdf
 Madalina Berger
 
 👩‍💻 About Me
+
 Hi, I'm Madalina – working at the intersection of engineering, data and AI.
 
 I also write about leadership and growth:
