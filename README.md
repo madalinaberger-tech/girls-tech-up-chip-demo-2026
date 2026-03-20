@@ -11,7 +11,7 @@ python chip_test_demo.py
 🔬 From Chip to Transistors
 [Chip](images/chip_demo.jpeg)
 [Wafer](images/wafer_demo.jpeg)
-[Transistors](images/transistor_pattern_demo.jpeg)
+[Transistors](images/transistor_pattern_demo.jpg)
 
 🎮 Future Engineer Kit
 Download:
