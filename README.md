@@ -10,6 +10,8 @@ This demo was created for the Girls TECH UP event to inspire girls aged 10–14 
 🧪 Chip Testing
 We simulate chip tests under different conditions.
 
+----
+
 🧪 What we show
 At the stand, you can explore:
 🧪 Chip stress testing
@@ -17,8 +19,11 @@ At the stand, you can explore:
 📊 Finding patterns in data
 🤖 Understanding AI predictions
 
+----
+
 💻 Python Demo
 The Python demo simulates chip testing.
+
 Example:
 
 temperatures = [40, 60, 80, 90]
@@ -29,9 +34,13 @@ for t in temperatures:
     else:
         print(t, "°C -> PASS")
 
+----
+
 💻 How to run the Python demo
 
 You can run this demo on your own computer in a few simple steps.
+
+---
 
 1️⃣ Install Python
 
@@ -42,6 +51,8 @@ Download and install Python.
 
 ✅ Important: Select “Add Python to PATH”
 
+----
+
 2️⃣ Install a code editor
 
 You can use:
@@ -49,6 +60,8 @@ You can use:
 https://code.visualstudio.com/
 
 or any simple text editor.
+
+---
 
 3️⃣ Download this project
 
@@ -58,12 +71,16 @@ Click the green Code button and choose:
 
 Then extract it.
 
+----
+
 4️⃣ Open the project
 
 Open the folder in Visual Studio Code
 or open:
 
 chip_test_demo.py
+
+---
 
 5️⃣ Run the program
 
@@ -81,6 +98,8 @@ python chip_test_demo.py
 	•	how data is generated
 	•	how patterns are found
 
+----
+
 📊 Test Data
 
 🔬 Inside a Chip
@@ -89,14 +108,15 @@ python chip_test_demo.py
 
 Transistoren → Tests → Daten → Muster → KI
 
-Run:
-python chip_test_demo.py
+----
 
 📊 Data Example
 🔬 From Chip to Transistors
 [Chip](images/chip_demo.jpeg)
 [Wafer](images/wafer_demo.jpeg)
 [Transistors](images/transistor_pattern_demo.jpg)
+
+---
 
 🎮 Future Engineer Kit
 Download:
